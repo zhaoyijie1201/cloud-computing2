@@ -1,1 +1,1 @@
-All for CloudComputing course
+All for CloudComputing Course
